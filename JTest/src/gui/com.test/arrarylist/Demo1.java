@@ -1,4 +1,4 @@
-package com.arrarylist;
+package arrarylist;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

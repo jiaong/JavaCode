@@ -1,4 +1,4 @@
-package arrary;
+package array;
 
 /**
  * 数组元素值总和

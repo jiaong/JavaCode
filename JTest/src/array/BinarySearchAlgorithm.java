@@ -1,4 +1,4 @@
-package arrary;
+package array;
 
 /**
  * BinarySearchAlgorithm 二分查找

@@ -1,4 +1,4 @@
-package arrary;
+package array;
 
 /**
  * Two-dimensional array 二维数组

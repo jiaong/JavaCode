@@ -1,4 +1,4 @@
-package arrary;
+package array;
 
 /**
  * SwitchArray 反转数组

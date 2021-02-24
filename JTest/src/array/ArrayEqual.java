@@ -1,4 +1,4 @@
-package arrary;
+package array;
 
 /**
  * ArrayEqual 比较数组是否相同

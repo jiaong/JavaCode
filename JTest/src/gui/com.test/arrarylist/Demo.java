@@ -1,4 +1,4 @@
-package com.arrarylist;
+package arrarylist;
 //  先引用包
 import java.util.*;
 

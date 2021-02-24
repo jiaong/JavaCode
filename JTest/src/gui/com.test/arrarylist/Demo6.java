@@ -1,4 +1,4 @@
-package com.arrarylist;
+package arrarylist;
 
 import java.util.Hashtable;
 
